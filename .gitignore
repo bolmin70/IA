@@ -37,3 +37,6 @@
 *.log
 *.idb
 *.user
+.vs/IA/v16/.suo
+*.db
+*.ipch
