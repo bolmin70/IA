@@ -1,5 +1,7 @@
 # IA
 
+The Internal Assessment for the Computer Science International Baccalaureate course
+
 The Scenario
 My client Piotr is a semi-professional cyclist. He attends many racing events and trains very hard in preparation for them. He records his training data by writing it down in a notebook. 
 The problem with is that as years went on, more data was added and it got much harder to measure improvements and to make comparisons. The problem here are both the input and the analysis of data.
